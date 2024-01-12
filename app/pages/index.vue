@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="/app/static/images/uploads/new-project.png"
+          src="/images/uploads/new-project.png"
         />
 <!-- https://source.unsplash.com/random/720x400 -->
       </div>
